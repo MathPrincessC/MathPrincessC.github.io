@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  background-color: yellow;
+  border: 2px dashed blue;
+  border-radius: 12px;
+}
+
+
+nav {
+  text-align: center;
+}
+
+
+body {
+  background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+  font-family: 'Indie Flower', cursive;
+
+
+  }
+  img {
+    margin: center;
+    width: 100%;
+    border: 0px solid white;
+    padding: 1px;
+  }
+ 
+
+
+
+
+
+
+
+
